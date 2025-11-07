@@ -1,0 +1,7 @@
+# Ignore large data files for the sentiment project
+Twitter-Sentiment-Analysis/training.1600000.processed.noemoticon.csv
+Twitter-Sentiment-Analysis/sentiment140.zip
+
+# You could also just ignore all CSV and Zip files in that folder like this:
+# Twitter-Sentiment-Analysis/*.csv
+# Twitter-Sentiment-Analysis/*.zip
